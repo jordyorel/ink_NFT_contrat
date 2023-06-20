@@ -1,0 +1,11 @@
+/Users/jordy/Desktop/contracts/target/debug/deps/cargo_metadata-0c4d88c94cb40d52.rmeta: /Users/jordy/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/lib.rs /Users/jordy/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/dependency.rs /Users/jordy/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/diagnostic.rs /Users/jordy/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/errors.rs /Users/jordy/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/messages.rs
+
+/Users/jordy/Desktop/contracts/target/debug/deps/libcargo_metadata-0c4d88c94cb40d52.rlib: /Users/jordy/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/lib.rs /Users/jordy/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/dependency.rs /Users/jordy/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/diagnostic.rs /Users/jordy/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/errors.rs /Users/jordy/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/messages.rs
+
+/Users/jordy/Desktop/contracts/target/debug/deps/cargo_metadata-0c4d88c94cb40d52.d: /Users/jordy/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/lib.rs /Users/jordy/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/dependency.rs /Users/jordy/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/diagnostic.rs /Users/jordy/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/errors.rs /Users/jordy/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/messages.rs
+
+/Users/jordy/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/lib.rs:
+/Users/jordy/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/dependency.rs:
+/Users/jordy/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/diagnostic.rs:
+/Users/jordy/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/errors.rs:
+/Users/jordy/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/messages.rs:

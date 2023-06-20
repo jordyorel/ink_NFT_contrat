@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "contracts/**",
+]
+
+exclude = [
+]
+payable_mint_pkg = { path = "../../logics", default-features = false }

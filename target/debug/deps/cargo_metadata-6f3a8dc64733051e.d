@@ -1,0 +1,11 @@
+/Users/jordy/Desktop/contracts/target/debug/deps/cargo_metadata-6f3a8dc64733051e.rmeta: /Users/jordy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/lib.rs /Users/jordy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/dependency.rs /Users/jordy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/diagnostic.rs /Users/jordy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/errors.rs /Users/jordy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/messages.rs
+
+/Users/jordy/Desktop/contracts/target/debug/deps/libcargo_metadata-6f3a8dc64733051e.rlib: /Users/jordy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/lib.rs /Users/jordy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/dependency.rs /Users/jordy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/diagnostic.rs /Users/jordy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/errors.rs /Users/jordy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/messages.rs
+
+/Users/jordy/Desktop/contracts/target/debug/deps/cargo_metadata-6f3a8dc64733051e.d: /Users/jordy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/lib.rs /Users/jordy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/dependency.rs /Users/jordy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/diagnostic.rs /Users/jordy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/errors.rs /Users/jordy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/messages.rs
+
+/Users/jordy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/lib.rs:
+/Users/jordy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/dependency.rs:
+/Users/jordy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/diagnostic.rs:
+/Users/jordy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/errors.rs:
+/Users/jordy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/messages.rs:
